@@ -1,0 +1,15 @@
+C:\IT (GeekBrains)\C#\7 Seminar\HW_task 2\obj\Debug\net6.0\HW_task 2.csproj.AssemblyReference.cache
+C:\IT (GeekBrains)\C#\7 Seminar\HW_task 2\obj\Debug\net6.0\HW_task 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\IT (GeekBrains)\C#\7 Seminar\HW_task 2\obj\Debug\net6.0\HW_task 2.AssemblyInfoInputs.cache
+C:\IT (GeekBrains)\C#\7 Seminar\HW_task 2\obj\Debug\net6.0\HW_task 2.AssemblyInfo.cs
+C:\IT (GeekBrains)\C#\7 Seminar\HW_task 2\obj\Debug\net6.0\HW_task 2.csproj.CoreCompileInputs.cache
+C:\IT (GeekBrains)\C#\7 Seminar\HW_task 2\bin\Debug\net6.0\HW_task 2.exe
+C:\IT (GeekBrains)\C#\7 Seminar\HW_task 2\bin\Debug\net6.0\HW_task 2.deps.json
+C:\IT (GeekBrains)\C#\7 Seminar\HW_task 2\bin\Debug\net6.0\HW_task 2.runtimeconfig.json
+C:\IT (GeekBrains)\C#\7 Seminar\HW_task 2\bin\Debug\net6.0\HW_task 2.dll
+C:\IT (GeekBrains)\C#\7 Seminar\HW_task 2\bin\Debug\net6.0\HW_task 2.pdb
+C:\IT (GeekBrains)\C#\7 Seminar\HW_task 2\obj\Debug\net6.0\HW_task 2.dll
+C:\IT (GeekBrains)\C#\7 Seminar\HW_task 2\obj\Debug\net6.0\refint\HW_task 2.dll
+C:\IT (GeekBrains)\C#\7 Seminar\HW_task 2\obj\Debug\net6.0\HW_task 2.pdb
+C:\IT (GeekBrains)\C#\7 Seminar\HW_task 2\obj\Debug\net6.0\HW_task 2.genruntimeconfig.cache
+C:\IT (GeekBrains)\C#\7 Seminar\HW_task 2\obj\Debug\net6.0\ref\HW_task 2.dll
